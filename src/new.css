@@ -1,0 +1,129 @@
+.loactionpage{
+    
+    width: 60%;
+    background: url("city.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    
+}
+
+.weatherpage{
+    background-color: rgba(0,0,0, 0.60); 
+    background-image: none;
+    width: 40%;
+    color: aliceblue;
+}
+
+
+.container {
+    width: 65%;
+    height: 80vh;
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+
+
+body {
+    background: url("background.jpg"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+  }
+
+  .infobox{
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .time {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 4em;
+    font-weight: 500;
+    color: bisque;
+  }
+
+  .clock{
+    position: absolute;
+    bottom: 1rem;
+    margin-left: 15px;
+    margin-bottom: 10px;
+  }
+
+  .cityhead {
+    position: absolute;
+    top: 3rem;
+    padding: 10px;
+    left: 550px;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 4em;
+    font-weight: 500;
+    color: white;
+
+  }
+
+  .button{
+    font-family: 'Orbitron', sans-serif;
+    border-radius: 75%;
+    color: black !important;
+    font-size: 18px !important;
+    
+  }
+
+  .textfieldcol {
+    background-color: none !important;
+    border-color: black !important;
+  }
+
+  .searchbox {
+    background-color: none;
+    margin-top: 160px;
+  }
+
+  h3{
+    font-size: 27px;
+    font-family: 'Orbitron', sans-serif;
+    color: black;
+  }
+
+  .cardcontainer{
+    padding-top: 60px ;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 20px;
+  }
+
+  .todayweather ul li {
+      margin: 0 auto;
+      color: bisque;
+      font-weight: 600;
+      text-align: left;
+      padding-left: 30px;
+      padding-bottom: 15px;
+      text-decoration: none !important;
+      list-style: none;
+    }
+    .todayweather ul li span {
+      float: right;
+      padding-left: 130px;
+    }
+
+    .todayweather{
+      padding-right: 25px;
+    }
+
+   
+
+    .climate{
+      color: bisque;
+      padding-top: 20px;
+      font-size: 40px;
+    }
