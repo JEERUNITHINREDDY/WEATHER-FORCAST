@@ -1,1 +1,2 @@
 ![image](https://github.com/JEERUNITHINREDDY/WEATHER-FORCAST/assets/120825825/82f526e1-a159-4b1b-a6a1-e3f10da881c9)
+![image](https://github.com/JEERUNITHINREDDY/WEATHER-FORCAST/assets/120825825/178e732f-4241-43ab-9952-b5ddfed7cb11)
